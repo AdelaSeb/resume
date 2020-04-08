@@ -10,7 +10,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@master
@@ -18,7 +18,7 @@ jobs:
     - name: Set up Node.js version
       uses: actions/setup-node@v1
       with:
-        node-version: '12.13.0'
+        node-version: '10.14'
 
     - name: npm install, build, and test
       run: |
@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'meetadela'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b010e8ec890949da80ec93b39f55073a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8d5b24f723aa43bf9f3db9ffb30f1bff }}
         package: .
