@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'meetadela'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8d5b24f723aa43bf9f3db9ffb30f1bff }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_561db28e35df4063b09150f4396d301f }}
         package: .
