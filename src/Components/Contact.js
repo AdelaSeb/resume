@@ -36,7 +36,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="https://www.flexyform.com/f/YouFormKey/ed14f3090d2b7c643dc3f9c9c4c7af43cd8088ce" method="post" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
