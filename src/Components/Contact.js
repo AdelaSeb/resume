@@ -36,7 +36,11 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="https://www.flexyform.com/f/YouFormKey/ed14f3090d2b7c643dc3f9c9c4c7af43cd8088ce" method="post" id="contactForm" name="contactForm">
+               <form 
+                  action="https://www.flexyform.com/f/ed14f3090d2b7c643dc3f9c9c4c7af43cd8088ce" 
+                  method="post" 
+                  id="contactForm" 
+                  name="contactForm">
 					<fieldset>
 
                   <div>
@@ -68,7 +72,7 @@ class Contact extends Component {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
+               <div id="message-warning"> Error boy</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
@@ -83,8 +87,8 @@ class Contact extends Component {
 						   {name}<br />
 						   {street} <br />
 						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
-                     <span>{email}</span>
+						   {phone}<br />
+                     {email}
 					   </p>
 				   </div>
             </aside>

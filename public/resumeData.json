@@ -2,9 +2,9 @@
   "main": {
     "name":"Adela Sebestova",
     "occupation":"Aspiring Product Manager",
-    "description":"I'm currently on track to become a product manager, transitioning from project management position at a startup. I have gained exposure into product management.",
+    "description":"At my current position as a project manager at a tech startup, I have a wide exposure to product design & development and collection of user feedback and analysis",
     "image":"profilepic.jpg",
-    "bio":"I've completed a full stack web development bootcamp, using Angular and React frameworks. Recently, I've dived into React Native application development.",
+    "bio":"I've completed a full stack web development bootcamp, using Angular and React frameworks. Recently, I've been focusing on React Native application development.",
     "contactmessage":"Get in touch with me!",
     "email": "a.sebestova@outlook.com",
     "phone": "347-842-8130",
@@ -14,8 +14,8 @@
       "state":"WA",
       "zip": "98122"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://1drv.ms/b/s!AplVG-PHWkGOgoRvBzZe3hH-1F9bYQ",
+    "resumedownload":"https://1drv.ms/b/s!AplVG-PHWkGOgoRvBzZe3hH-1F9bYQ",
     "social":[
       {
         "name":"facebook",
@@ -76,7 +76,7 @@
         "company":"Bytemark",
         "title":"Project Manager",
         "years":"June 2018 - Present",
-        "description":"Driving development and delivery of mobility and payment applications. Spearheading localization efforts and optimizing the translation process via TMS tool, including communication triage with translation agencies, clients and developers. Completed translations of our applications into 5 foreign languages and counting. Successfully launched multiple projects from the initial proposal to product launch. Owning the collection and prioritization of requirements from clients and translating them in cooperation with developers and product managers into state-of-the-art solutions. Managing integrations with a large number of third-party vendors and partners, good knowledge of APIs. In direct contact with clients and internal stakeholders, including reporting and escalating to the executive management team. Improved internal processes by created an internal tracking mechanism of feature/product releases to clients across the company, which includes standardized feature documentation shared among PMO. Created an internal tracking system for change orders shared across all departments."
+        "description":"Driving development and delivery of mobility and payment applications. Successfully launched multiple projects from the initial proposal to product launch. Owning the collection and prioritization of requirements from clients and translating them into state-of-the-art solutions. Managing integrations with a large number of third-party vendors and partners."
       },
       {
         "company":"Amazon",
